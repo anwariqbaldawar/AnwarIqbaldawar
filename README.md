@@ -40,5 +40,5 @@ A comprehensive, custom-built web-based hostel management portal designed to str
 
 ### 📫 Connect With Me
 - **Website:** [xsypher.com](https://xsypher.com)
-- **LinkedIn:** [Anwar Iqbal Dawar](https://linkedin.com/in/YOUR-CUSTOM-LINKEDIN-URL)
+- **LinkedIn:** [Anwar Iqbal Dawar](https://www.linkedin.com/in/anwar-iqbal-dawar-6564ba37a)
 - **Email:** Reach out via my website or LinkedIn for collaborations.
