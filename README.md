@@ -77,51 +77,27 @@ opsec_protocol: "Primary workstation permanently operates in Airplane Mode; stri
 
 ---
 
-### [ 03 // PRODUCTION SYSTEMS & FLAGSHIP ARCHITECTURES ]
+### [ 03 // FEATURED ENGINEERING PORTFOLIO & PRODUCTION VENTURES ]
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                      xSypher High-Performance Architecture                  │
-└─────────────────────────────────────────────────────────────────────────────┘
-                                      │
-                 ┌────────────────────┴────────────────────┐
-                 ▼                                         ▼
-      [ Cloudflare Anycast Edge ]               [ Cloudflare R2 Store ]
-      • HTTP/3 & 0-RTT TLS                     • S3-Compatible Storage API
-      • Edge Cache: s-maxage=3600              • Decoupled TipTap AST JSON
-      • Dynamic On-The-Fly WebP/AVIF           • Sanitized HTML Article Payloads
-                 │                                         │
-                 └────────────────────┬────────────────────┘
-                                      ▼
-                       [ Next.js 16 App Router ]
-                       • React 19 + Turbopack Bundling
-                       • Standalone ARM64 Docker Container
-                       • Server-Side Rendering (SSR) + ISR
-                                      │
-                 ┌────────────────────┴────────────────────┐
-                 ▼                                         ▼
-       [ PostgreSQL Engine ]                    [ Background Workers ]
-       • Neon Serverless Postgres               • BullMQ Queue Engine
-       • Drizzle ORM Relational API             • Redis 6.0 AOF Cluster
-       • PgBouncer Connection Pooler            • Scheduled Dispatch Engine
-```
-
-#### 1. xSypher.com — Founder, Lead Systems Architect & Editor-in-Chief
-A state-of-the-art independent technology publication and systems engineering newsroom engineered for sub-50ms edge TTFB, zero-cold-start relational queries, and extreme editorial scalability.
-* **Decoupled Content Architecture:** Heavy article bodies (TipTap AST JSON and sanitized HTML) are completely decoupled from PostgreSQL tables and stored as content-addressed payloads in **Cloudflare R2**, keeping database row sizes lean and relational queries instant.
+#### 1. [xSypher.com](https://xsypher.com) &mdash; Founder & Lead Systems Architect
+An independent technology publication and systems engineering newsroom engineered from the ground up for sub-50ms edge TTFB, zero-cold-start relational queries, and extreme editorial scalability.
+* **Decoupled Content Architecture:** Heavy editorial bodies (TipTap AST JSON and sanitized HTML) are decoupled from PostgreSQL tables and stored as content-addressed payloads in **Cloudflare R2**, keeping database row sizes lean and relational queries instant.
 * **Relational Layer & High-Throughput Pooling:** Built on **Drizzle ORM (0.45)** querying **Neon Serverless PostgreSQL** through a hardened **PgBouncer** connection pool.
 * **Containerized Edge Deployment:** Multi-stage Next.js standalone ARM64 build running inside hardened Docker Compose containers on **Oracle Cloud Infrastructure (OCI)**, fronted by Cloudflare Edge caching rules (`s-maxage=3600`, `stale-while-revalidate=86400`).
 * **Editorial & Threat Intelligence Lab:** Spearheads investigative research on AI Agent Security, MicroVM isolation, frame-time performance, and DevSecOps.
-* **Live Verification:** [**Launch xSypher.com ↗**](https://xsypher.com) &bull; [**View Author Profile ↗**](https://xsypher.com/author/anwar-iqbal-dawar) &bull; [**GitHub Organization ↗**](https://github.com/thexsypher)
+* **Live Verification:** [**Launch Platform ↗**](https://xsypher.com) &bull; [**Author Column ↗**](https://xsypher.com/author/anwar-iqbal-dawar) &bull; [**GitHub Organization ↗**](https://github.com/thexsypher)
 
-#### 2. HomeNestMover.ae — Sole Full-Stack Developer
+#### 2. HomeNestMover.ae &mdash; Sole Full-Stack Developer
 A production bilingual (English / Arabic) logistics, fleet dispatch, and enterprise relocation platform engineered specifically for the **Abu Dhabi & Dubai, UAE** corporate and residential markets.
 * **Architecture:** Next.js with localized internationalization (RTL/LTR support), PostgreSQL backend integration, and low-latency anycast edge routing.
 * **Capabilities:** Multi-step booking engine, automated estimate calculators, and real-time scheduling.
 
-#### 3. HostelHub.pk — Sole Full-Stack Developer
+#### 3. HostelHub.pk &mdash; Sole Full-Stack Developer
 A comprehensive accommodation management portal designed to digitize hostel operations, student tenant onboarding, automated inventory, and room allocation workflows.
 * **Architecture:** Full-stack architecture with capability-based access control, automated ledger accounting, and responsive mobile-first dashboard.
+
+#### 4. [MCP Production Hardening Kit](https://github.com/thexsypher/mcp-production-hardening-kit) &mdash; Author & Maintainer
+A production-grade defensive security harness for Model Context Protocol (MCP) servers. Provides rate-limiting, capability sandboxing, and request inspection filters to prevent unauthorized tool execution.
 
 ---
 
