@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://xsypher.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://thexsypher.github.io/assets/logo.png" alt="xSypher Official Logo" width="340" />
+    <img src="https://thexsypher.github.io/assets/logo.png" alt="xSypher Official Logo" width="360" />
   </a>
 
   <br /><br />
@@ -12,15 +12,16 @@
   <p>
     <a href="https://xsypher.com" target="_blank"><img src="https://img.shields.io/badge/Platform-xSypher.com-ff0a2b?style=flat-square&logo=googlechrome&logoColor=white" alt="Platform: xSypher" /></a>
     <a href="https://xsypher.com/author/anwar-iqbal-dawar" target="_blank"><img src="https://img.shields.io/badge/Author_Desk-Anwar_Iqbal_Dawar-000000?style=flat-square&logo=rss&logoColor=FF3B30" alt="Author Desk" /></a>
-    <a href="https://www.linkedin.com/in/anwar-iqbal-dawar-6564ba37a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Anwar_Iqbal_Dawar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/anwar-iqbal-6564ba37a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-anwar--iqbal-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://github.com/thexsypher" target="_blank"><img src="https://img.shields.io/badge/Organization-@thexsypher-11141d?style=flat-square&logo=github&logoColor=white" alt="Organization: thexsypher" /></a>
     <a href="https://xsypher.com"><img src="https://img.shields.io/badge/Focus-AI_Agent_Security_&_Cloud_Infra-FF3B30?style=flat-square" alt="Focus: Cloud Security" /></a>
-    <a href="https://www.linkedin.com/in/anwar-iqbal-dawar-6564ba37a"><img src="https://img.shields.io/badge/Base-Peshawar_➔_GCC_/_UAE-111111?style=flat-square" alt="Base: Pakistan to GCC" /></a>
+    <a href="https://www.linkedin.com/in/anwar-iqbal-6564ba37a"><img src="https://img.shields.io/badge/Base-Peshawar_➔_GCC_/_UAE-111111?style=flat-square" alt="Base: Pakistan to GCC" /></a>
+    <img src="https://komarev.com/ghpvc/?username=anwariqbaldawar&style=flat-square&color=ff0a2b&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
   <p>
-    <a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=FF3B30&center=true&vcenter=true&width=650&lines=Full-Stack+Systems+Architect+%26+Security+Researcher;Founder+%26+Editor-in-Chief+%40+xSypher.com;Architecting+Next.js+16%2C+Drizzle+ORM+%26+Cloudflare+R2;Researching+Zero-Trust%2C+MicroVMs+%26+AI+Agent+Security">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=FF3B30&center=true&vcenter=true&width=650&lines=Full-Stack+Systems+Architect+%26+Security+Researcher;Founder+%26+Editor-in-Chief+%40+xSypher.com;Architecting+Next.js+16%2C+Drizzle+ORM+%26+Cloudflare+R2;Researching+Zero-Trust%2C+MicroVMs+%26+AI+Agent+Security" alt="Typing SVG" />
+    <a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=FF3B30&center=true&vcenter=true&width=720&lines=Full-Stack+Systems+Architect+%26+Security+Researcher;Founder+%26+Editor-in-Chief+%40+xSypher.com;Engineering+Next.js+16%2C+Drizzle+ORM+%26+Cloudflare+R2;Researching+MicroVM+Sandboxing%2C+Zero-Trust+%26+MCP+Security;Building+for+Extreme+Performance+%26+Sub-50ms+Edge+TTFB">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=FF3B30&center=true&vcenter=true&width=720&lines=Full-Stack+Systems+Architect+%26+Security+Researcher;Founder+%26+Editor-in-Chief+%40+xSypher.com;Engineering+Next.js+16%2C+Drizzle+ORM+%26+Cloudflare+R2;Researching+MicroVM+Sandboxing%2C+Zero-Trust+%26+MCP+Security;Building+for+Extreme+Performance+%26+Sub-50ms+Edge+TTFB" alt="Animated Terminal Typist" />
     </a>
   </p>
 
@@ -58,6 +59,12 @@ opsec_protocol: "Primary workstation permanently operates in Airplane Mode; stri
 ### [ 02 // TECHNICAL ARSENAL & ENGINEERING MATRIX ]
 
 <div align="center">
+
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,postgres,redis,docker,cloudflare,py,cpp,rust,bash,kali,git,linux&theme=dark" alt="Technical Skills Grid" />
+    </a>
+  </p>
 
 | Domain | Production Tooling & Architectural Primitives |
 | :--- | :--- |
@@ -105,7 +112,7 @@ A state-of-the-art independent technology publication and systems engineering ne
 * **Relational Layer & High-Throughput Pooling:** Built on **Drizzle ORM (0.45)** querying **Neon Serverless PostgreSQL** through a hardened **PgBouncer** connection pool.
 * **Containerized Edge Deployment:** Multi-stage Next.js standalone ARM64 build running inside hardened Docker Compose containers on **Oracle Cloud Infrastructure (OCI)**, fronted by Cloudflare Edge caching rules (`s-maxage=3600`, `stale-while-revalidate=86400`).
 * **Editorial & Threat Intelligence Lab:** Spearheads investigative research on AI Agent Security, MicroVM isolation, frame-time performance, and DevSecOps.
-* **Verification Links:** [**Production Platform ↗**](https://xsypher.com) &bull; [**Author Column ↗**](https://xsypher.com/author/anwar-iqbal-dawar) &bull; [**GitHub Organization ↗**](https://github.com/thexsypher)
+* **Live Verification:** [**Launch xSypher.com ↗**](https://xsypher.com) &bull; [**View Author Profile ↗**](https://xsypher.com/author/anwar-iqbal-dawar) &bull; [**GitHub Organization ↗**](https://github.com/thexsypher)
 
 #### 2. HomeNestMover.ae — Sole Full-Stack Developer
 A production bilingual (English / Arabic) logistics, fleet dispatch, and enterprise relocation platform engineered specifically for the **Abu Dhabi & Dubai, UAE** corporate and residential markets.
@@ -120,15 +127,39 @@ A comprehensive accommodation management portal designed to digitize hostel oper
 
 ### [ 04 // FEATURED SECURITY RESEARCH & ARCHITECTURAL PAPERS ]
 
-Original investigations and systems blueprints authored by Anwar Iqbal Dawar on **[xSypher.com](https://xsypher.com)**:
+Original investigations and technical blueprints authored by Anwar Iqbal Dawar on **[xSypher.com](https://xsypher.com)**:
 
-| Classification | Research Paper & Live Backlink | Engineering Takeaway & Architectural Abstract |
-| :--- | :--- | :--- |
-| **`[AI_SECURITY]`** | **[Securing AI Agents: Prompt Injection, MicroVMs, Zero Trust](https://xsypher.com/article/securing-ai-agents-prompt-injection-microvms-zero-trust)** | Defense-in-depth isolation: Sandboxing agent runtimes in Firecracker microVMs or gVisor, enforcing task-scoped Zero Trust tokens, signing Ed25519 approvals, and blocking outbound exfiltration. |
-| **`[MCP_HARDENING]`** | **[How to Secure MCP Servers and AI Agents in Production](https://xsypher.com/article/how-to-secure-mcp-servers-and-ai-agents-in-production)** | Concrete enterprise security controls for Model Context Protocol servers: OAuth 2.1 audience binding (RFC 8707), SHA-256 manifest pinning, sandboxing, and deterministic policy brokers against tool abuse. |
-| **`[LLM_RELIABILITY]`** | **[Why AI Hallucinates and How to Catch It Before It Costs You](https://xsypher.com/article/why-ai-hallucinates-and-how-to-catch-it-before-it-costs-you)** | Mathematical analysis of autoregressive sampling entropy, calibration loss, and evaluation frameworks to detect hallucinations in production LLM pipelines. |
-| **`[COMPUTE_BENCHMARKS]`** | **[Local AI vs Cloud AI: Which One Fits Your Work?](https://xsypher.com/article/local-ai-vs-cloud-ai-which-one-fits-your-work)** | Total cost of ownership (TCO) breakdown and empirical latency analysis comparing on-premise Apple Silicon/RTX hardware with cloud API billing. |
-| **`[SYSTEMS_DESIGN]`** | **[REST vs GraphQL vs gRPC: Choosing the Right API Architecture](https://xsypher.com/article/rest-vs-graphql-vs-grpc-choosing-the-right-api-architecture)** | Comparative tradeoff analysis of serialization protocols, packet overhead, streaming ergonomics, and caching across high-throughput distributed microservices. |
+#### 🔒 `[AI_SECURITY]` [Securing AI Agents: Prompt Injection, MicroVMs, Zero Trust](https://xsypher.com/article/securing-ai-agents-prompt-injection-microvms-zero-trust)
+* **Architectural Abstract:** Defense-in-depth isolation: Sandboxing agent runtimes in Firecracker microVMs or gVisor, enforcing task-scoped Zero Trust tokens, signing Ed25519 approvals, and blocking outbound exfiltration.
+* **Direct Access:** [**Read Full Investigation on xSypher.com ↗**](https://xsypher.com/article/securing-ai-agents-prompt-injection-microvms-zero-trust)
+
+#### 🛡️ `[MCP_HARDENING]` [How to Secure MCP Servers and AI Agents in Production](https://xsypher.com/article/how-to-secure-mcp-servers-and-ai-agents-in-production)
+* **Architectural Abstract:** Concrete enterprise security controls for Model Context Protocol servers: OAuth 2.1 audience binding (RFC 8707), SHA-256 manifest pinning, sandboxing, and deterministic policy brokers against tool abuse.
+* **Direct Access:** [**Read Full Investigation on xSypher.com ↗**](https://xsypher.com/article/how-to-secure-mcp-servers-and-ai-agents-in-production)
+
+#### 🧠 `[LLM_RELIABILITY]` [Why AI Hallucinates and How to Catch It Before It Costs You](https://xsypher.com/article/why-ai-hallucinates-and-how-to-catch-it-before-it-costs-you)
+* **Architectural Abstract:** Mathematical analysis of autoregressive sampling entropy, calibration loss, and evaluation frameworks to detect hallucinations in production LLM pipelines.
+* **Direct Access:** [**Read Full Investigation on xSypher.com ↗**](https://xsypher.com/article/why-ai-hallucinates-and-how-to-catch-it-before-it-costs-you)
+
+#### 💻 `[COMPUTE_BENCHMARKS]` [Local AI vs Cloud AI: Which One Fits Your Work?](https://xsypher.com/article/local-ai-vs-cloud-ai-which-one-fits-your-work)
+* **Architectural Abstract:** Total cost of ownership (TCO) breakdown and empirical latency analysis comparing on-premise Apple Silicon/RTX hardware with cloud API billing.
+* **Direct Access:** [**Read Full Investigation on xSypher.com ↗**](https://xsypher.com/article/local-ai-vs-cloud-ai-which-one-fits-your-work)
+
+#### 🔌 `[SYSTEMS_DESIGN]` [REST vs GraphQL vs gRPC: Choosing the Right API Architecture](https://xsypher.com/article/rest-vs-graphql-vs-grpc-choosing-the-right-api-architecture)
+* **Architectural Abstract:** Comparative tradeoff analysis of serialization protocols, packet overhead, streaming ergonomics, and caching across high-throughput distributed microservices.
+* **Direct Access:** [**Read Full Investigation on xSypher.com ↗**](https://xsypher.com/article/rest-vs-graphql-vs-grpc-choosing-the-right-api-architecture)
+
+#### ⏱️ `[GRAPHICS_HARDWARE]` [Why High FPS Still Stutters: Frame Time, Shaders, and Sync](https://xsypher.com/article/why-high-fps-still-stutters-frame-time-shaders-and-sync)
+* **Architectural Abstract:** Deep dive into 1% low frame rates, shader compilation stalls, asynchronous compute, and display refresh synchronisation mechanics.
+* **Direct Access:** [**Read Full Investigation on xSypher.com ↗**](https://xsypher.com/article/why-high-fps-still-stutters-frame-time-shaders-and-sync)
+
+#### 💾 `[SILICON_MEMORY]` [How Much RAM Do You Actually Need in a Laptop?](https://xsypher.com/article/how-much-ram-do-you-actually-need-in-a-laptop)
+* **Architectural Abstract:** Real-world physical memory allocation metrics across software development, local LLM quantization, container virtualization, and engineering workflows.
+* **Direct Access:** [**Read Full Investigation on xSypher.com ↗**](https://xsypher.com/article/how-much-ram-do-you-actually-need-in-a-laptop)
+
+#### 📜 `[COMPLIANCE_OPS]` [CRA Article 14: Build a 24-Hour Exploited-Vulnerability Reporting Workflow](https://xsypher.com/article/cra-article-14-build-a-24-hour-exploited-vulnerability-reporting-workflow)
+* **Architectural Abstract:** Practical compliance blueprint for the EU Cyber Resilience Act: automated triage, SBOM correlation, and CIRT notification runbooks.
+* **Direct Access:** [**Read Full Investigation on xSypher.com ↗**](https://xsypher.com/article/cra-article-14-build-a-24-hour-exploited-vulnerability-reporting-workflow)
 
 ---
 
@@ -158,7 +189,7 @@ Open for strategic discussions on **Full-Stack Systems Architecture**, **Cloud &
 | :--- | :--- | :--- |
 | **Primary Platform** | [https://xsypher.com](https://xsypher.com) | `PUBLIC` |
 | **Author Desk** | [xsypher.com/author/anwar-iqbal-dawar](https://xsypher.com/author/anwar-iqbal-dawar) | `VERIFIED` |
-| **Professional Network** | [linkedin.com/in/anwar-iqbal-dawar-6564ba37a](https://www.linkedin.com/in/anwar-iqbal-dawar-6564ba37a) | `DIRECT` |
+| **Professional Network** | [linkedin.com/in/anwar-iqbal-6564ba37a](https://www.linkedin.com/in/anwar-iqbal-6564ba37a) | `DIRECT` |
 | **Engineering Organization** | [github.com/thexsypher](https://github.com/thexsypher) | `PUBLIC` |
 | **Vulnerability Disclosure** | [xsypher.com/.well-known/security.txt](https://xsypher.com/.well-known/security.txt) | `RFC_9116` |
 | **Syndication Stream** | [xsypher.com/feed.xml (RSS 2.0)](https://xsypher.com/feed.xml) | `ATOM/RSS` |
