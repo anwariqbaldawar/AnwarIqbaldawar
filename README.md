@@ -16,7 +16,7 @@
     <a href="https://github.com/thexsypher" target="_blank"><img src="https://img.shields.io/badge/Organization-@thexsypher-11141d?style=flat-square&logo=github&logoColor=white" alt="Organization: thexsypher" /></a>
     <a href="https://xsypher.com"><img src="https://img.shields.io/badge/Focus-AI_Agent_Security_&_Cloud_Infra-FF3B30?style=flat-square" alt="Focus: Cloud Security" /></a>
     <a href="https://www.linkedin.com/in/anwar-iqbal-6564ba37a"><img src="https://img.shields.io/badge/Base-Peshawar_➔_GCC_/_UAE-111111?style=flat-square" alt="Base: Pakistan to GCC" /></a>
-    <img src="https://komarev.com/ghpvc/?username=anwariqbaldawar&style=flat-square&color=ff0a2b&label=PROFILE+VIEWS" alt="Profile Views" />
+    <a href="https://github.com/anwariqbaldawar"><img src="https://img.shields.io/badge/Architecture-Production_Verified-00E599?style=flat-square&logo=checkmarx&logoColor=white" alt="Architecture: Production Verified" /></a>
   </p>
 
   <p>
@@ -24,13 +24,15 @@
       <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=FF3B30&center=true&vcenter=true&width=720&lines=Full-Stack+Systems+Architect+%26+Security+Researcher;Founder+%26+Editor-in-Chief+%40+xSypher.com;Engineering+Next.js+16%2C+Drizzle+ORM+%26+Cloudflare+R2;Researching+MicroVM+Sandboxing%2C+Zero-Trust+%26+MCP+Security;Building+for+Extreme+Performance+%26+Sub-50ms+Edge+TTFB" alt="Animated Terminal Typist" />
     </a>
   </p>
+</div>
 
-  <br />
+<br />
 
-  <blockquote>
-    <strong>EXECUTIVE BRIEF:</strong><br />
-    <em>Computer Engineering scholar and Full-Stack Systems Architect operating at the nexus of high-throughput web engineering (Next.js 16 / PostgreSQL / Cloudflare R2) and defensive Cloud & AI Security. I design and scale resilient production systems while conducting research into Zero-Trust boundaries, Firecracker microVM sandboxing, and autonomous agent isolation.</em>
-  </blockquote>
+<div align="center">
+
+| 🏛️ EXECUTIVE BRIEF &bull; ARCHITECTURAL MANDATE |
+| :--- |
+| **Computer Engineering scholar & Full-Stack Systems Architect** operating at the convergence of high-throughput web infrastructure and defensive Cloud & AI Security. Founder & Editor-in-Chief at **[xSypher.com](https://xsypher.com)**.<br /><br />• **⚡ High-Throughput Web Systems:** Architecting decoupled, resilient production platforms using **Next.js 16 (App Router)**, **Drizzle ORM**, **Neon Serverless Postgres**, and **Cloudflare R2** targeting sub-50ms edge TTFB.<br />• **🛡️ Defensive Cloud & AI Security:** Conducting applied research into **Zero-Trust execution boundaries**, **Firecracker microVM sandboxing**, **Ed25519 cryptographic policy brokers**, and **MCP server hardening**.<br />• **🎯 Core Engineering Credo:** `Verify with telemetry; decouple compute from state; sandbox all untrusted execution.` |
 
 </div>
 
