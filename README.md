@@ -36,7 +36,7 @@
 
 ---
 
-### [ 01 // OPERATIONAL DOSSIER & STRATEGIC PROFILE ]
+## 01. Operational Dossier & Strategic Focus
 
 <div align="center">
 
@@ -46,9 +46,9 @@
 | **Primary Leadership** | **Founder, Lead Systems Architect & Editor-in-Chief** &bull; [xSypher.com](https://xsypher.com) |
 | **Academic Foundation** | **BS Computer Engineering** &bull; CECOS University, Peshawar |
 | **Strategic Trajectory** | **Advanced MS in Cybersecurity** &bull; Cloud Security Engineering (GCC / Gulf Region Focus) |
-| **Active Research [01]** | **AI Agent & MCP Security:** Firecracker microVM / gVisor container isolation, prompt-injection defense, and Ed25519 cryptographic policy brokers. |
-| **Active Research [02]** | **High-Throughput Systems:** Next.js 16 App Router, Drizzle ORM, Neon Serverless Postgres, and Cloudflare R2 hybrid decoupled AST streaming. |
-| **Active Research [03]** | **Cloud Hardening & DevSecOps:** Oracle Cloud Infrastructure (OCI ARM64), unprivileged containerization, and automated verification gates. |
+| **Active Focus &bull; Security** | **AI Agent & MCP Security:** Firecracker microVM / gVisor container isolation, prompt-injection defense, and Ed25519 cryptographic policy brokers. |
+| **Active Focus &bull; Systems** | **High-Throughput Architecture:** Next.js 16 App Router, Drizzle ORM, Neon Serverless Postgres, and Cloudflare R2 hybrid decoupled AST streaming. |
+| **Active Focus &bull; DevSecOps** | **Cloud Hardening & Infrastructure:** Oracle Cloud Infrastructure (OCI ARM64), unprivileged containerization, and automated verification gates. |
 | **Engineering Credo** | `Verify everything with telemetry; decouple compute from state; sandbox all untrusted input.` |
 | **Operational Protocol** | Air-gapped deep work routines; strict Wi-Fi-only surface isolation for deep engineering focus. |
 
@@ -56,7 +56,7 @@
 
 ---
 
-### [ 02 // TECHNICAL ARSENAL & ENGINEERING MATRIX ]
+## 02. Technical Arsenal & Engineering Matrix
 
 <div align="center">
 
@@ -77,7 +77,7 @@
 
 ---
 
-### [ 03 // FEATURED ENGINEERING PORTFOLIO & PRODUCTION VENTURES ]
+## 03. Featured Production Systems & Engineering Ventures
 
 #### 1. [xSypher.com](https://xsypher.com) &mdash; Founder & Lead Systems Architect
 An independent technology publication and systems engineering newsroom engineered from the ground up for sub-50ms edge TTFB, zero-cold-start relational queries, and extreme editorial scalability.
@@ -101,45 +101,53 @@ A production-grade defensive security harness for Model Context Protocol (MCP) s
 
 ---
 
-### [ 04 // FEATURED SECURITY RESEARCH & ARCHITECTURAL PAPERS ]
+## 04. Published Security Research & Technical Papers
 
 Original investigations and technical blueprints authored by Anwar Iqbal Dawar on **[xSypher.com](https://xsypher.com)**:
 
-#### 🔒 `[AI_SECURITY]` [Securing AI Agents: Prompt Injection, MicroVMs, Zero Trust](https://xsypher.com/article/securing-ai-agents-prompt-injection-microvms-zero-trust)
+#### 🔒 [Securing AI Agents: Prompt Injection, MicroVMs, Zero Trust](https://xsypher.com/article/securing-ai-agents-prompt-injection-microvms-zero-trust)
+* **Domain:** AI Agent Security &bull; MicroVM Sandboxing
 * **Architectural Abstract:** Defense-in-depth isolation: Sandboxing agent runtimes in Firecracker microVMs or gVisor, enforcing task-scoped Zero Trust tokens, signing Ed25519 approvals, and blocking outbound exfiltration.
 * **Direct Access:** [**Read Full Investigation on xSypher.com ↗**](https://xsypher.com/article/securing-ai-agents-prompt-injection-microvms-zero-trust)
 
-#### 🛡️ `[MCP_HARDENING]` [How to Secure MCP Servers and AI Agents in Production](https://xsypher.com/article/how-to-secure-mcp-servers-and-ai-agents-in-production)
+#### 🛡️ [How to Secure MCP Servers and AI Agents in Production](https://xsypher.com/article/how-to-secure-mcp-servers-and-ai-agents-in-production)
+* **Domain:** MCP Hardening &bull; Audience Binding & Zero Trust
 * **Architectural Abstract:** Concrete enterprise security controls for Model Context Protocol servers: OAuth 2.1 audience binding (RFC 8707), SHA-256 manifest pinning, sandboxing, and deterministic policy brokers against tool abuse.
 * **Direct Access:** [**Read Full Investigation on xSypher.com ↗**](https://xsypher.com/article/how-to-secure-mcp-servers-and-ai-agents-in-production)
 
-#### 🧠 `[LLM_RELIABILITY]` [Why AI Hallucinates and How to Catch It Before It Costs You](https://xsypher.com/article/why-ai-hallucinates-and-how-to-catch-it-before-it-costs-you)
+#### 🧠 [Why AI Hallucinates and How to Catch It Before It Costs You](https://xsypher.com/article/why-ai-hallucinates-and-how-to-catch-it-before-it-costs-you)
+* **Domain:** LLM Reliability &bull; Autoregressive Entropy & Calibration Loss
 * **Architectural Abstract:** Mathematical analysis of autoregressive sampling entropy, calibration loss, and evaluation frameworks to detect hallucinations in production LLM pipelines.
 * **Direct Access:** [**Read Full Investigation on xSypher.com ↗**](https://xsypher.com/article/why-ai-hallucinates-and-how-to-catch-it-before-it-costs-you)
 
-#### 💻 `[COMPUTE_BENCHMARKS]` [Local AI vs Cloud AI: Which One Fits Your Work?](https://xsypher.com/article/local-ai-vs-cloud-ai-which-one-fits-your-work)
+#### 💻 [Local AI vs Cloud AI: Which One Fits Your Work?](https://xsypher.com/article/local-ai-vs-cloud-ai-which-one-fits-your-work)
+* **Domain:** Compute Benchmarks &bull; On-Premise vs Cloud TCO
 * **Architectural Abstract:** Total cost of ownership (TCO) breakdown and empirical latency analysis comparing on-premise Apple Silicon/RTX hardware with cloud API billing.
 * **Direct Access:** [**Read Full Investigation on xSypher.com ↗**](https://xsypher.com/article/local-ai-vs-cloud-ai-which-one-fits-your-work)
 
-#### 🔌 `[SYSTEMS_DESIGN]` [REST vs GraphQL vs gRPC: Choosing the Right API Architecture](https://xsypher.com/article/rest-vs-graphql-vs-grpc-choosing-the-right-api-architecture)
+#### 🔌 [REST vs GraphQL vs gRPC: Choosing the Right API Architecture](https://xsypher.com/article/rest-vs-graphql-vs-grpc-choosing-the-right-api-architecture)
+* **Domain:** Systems Design &bull; High-Throughput Wire Protocols
 * **Architectural Abstract:** Comparative tradeoff analysis of serialization protocols, packet overhead, streaming ergonomics, and caching across high-throughput distributed microservices.
 * **Direct Access:** [**Read Full Investigation on xSypher.com ↗**](https://xsypher.com/article/rest-vs-graphql-vs-grpc-choosing-the-right-api-architecture)
 
-#### ⏱️ `[GRAPHICS_HARDWARE]` [Why High FPS Still Stutters: Frame Time, Shaders, and Sync](https://xsypher.com/article/why-high-fps-still-stutters-frame-time-shaders-and-sync)
+#### ⏱️ [Why High FPS Still Stutters: Frame Time, Shaders, and Sync](https://xsypher.com/article/why-high-fps-still-stutters-frame-time-shaders-and-sync)
+* **Domain:** Graphics Architecture &bull; Frame Time Pacing
 * **Architectural Abstract:** Deep dive into 1% low frame rates, shader compilation stalls, asynchronous compute, and display refresh synchronisation mechanics.
 * **Direct Access:** [**Read Full Investigation on xSypher.com ↗**](https://xsypher.com/article/why-high-fps-still-stutters-frame-time-shaders-and-sync)
 
-#### 💾 `[SILICON_MEMORY]` [How Much RAM Do You Actually Need in a Laptop?](https://xsypher.com/article/how-much-ram-do-you-actually-need-in-a-laptop)
+#### 💾 [How Much RAM Do You Actually Need in a Laptop?](https://xsypher.com/article/how-much-ram-do-you-actually-need-in-a-laptop)
+* **Domain:** Silicon Architecture &bull; Memory Allocation
 * **Architectural Abstract:** Real-world physical memory allocation metrics across software development, local LLM quantization, container virtualization, and engineering workflows.
 * **Direct Access:** [**Read Full Investigation on xSypher.com ↗**](https://xsypher.com/article/how-much-ram-do-you-actually-need-in-a-laptop)
 
-#### 📜 `[COMPLIANCE_OPS]` [CRA Article 14: Build a 24-Hour Exploited-Vulnerability Reporting Workflow](https://xsypher.com/article/cra-article-14-build-a-24-hour-exploited-vulnerability-reporting-workflow)
+#### 📜 [CRA Article 14: Build a 24-Hour Exploited-Vulnerability Reporting Workflow](https://xsypher.com/article/cra-article-14-build-a-24-hour-exploited-vulnerability-reporting-workflow)
+* **Domain:** Compliance Operations &bull; EU Cyber Resilience Act
 * **Architectural Abstract:** Practical compliance blueprint for the EU Cyber Resilience Act: automated triage, SBOM correlation, and CIRT notification runbooks.
 * **Direct Access:** [**Read Full Investigation on xSypher.com ↗**](https://xsypher.com/article/cra-article-14-build-a-24-hour-exploited-vulnerability-reporting-workflow)
 
 ---
 
-### [ 05 // SYSTEMS TELEMETRY & GITHUB ACTIVITY ]
+## 05. Systems Telemetry & GitHub Activity
 
 <div align="center">
 
@@ -155,7 +163,7 @@ Original investigations and technical blueprints authored by Anwar Iqbal Dawar o
 
 ---
 
-### [ 06 // DIRECT TRANSMISSION & CONTACT CHANNELS ]
+## 06. Professional Network & Direct Channels
 
 Open for strategic discussions on **Full-Stack Systems Architecture**, **Cloud & AI Agent Security Research**, and **High-Impact Engineering Opportunities** across Pakistan, the **GCC / Gulf Region (UAE, Saudi Arabia)**, and global engagements.
 
@@ -163,12 +171,12 @@ Open for strategic discussions on **Full-Stack Systems Architecture**, **Cloud &
 
 | Transmission Channel | Destination & Verification Handle | Access |
 | :--- | :--- | :--- |
-| **Primary Platform** | [https://xsypher.com](https://xsypher.com) | `PUBLIC` |
-| **Author Desk** | [xsypher.com/author/anwar-iqbal-dawar](https://xsypher.com/author/anwar-iqbal-dawar) | `VERIFIED` |
-| **Professional Network** | [linkedin.com/in/anwar-iqbal-6564ba37a](https://www.linkedin.com/in/anwar-iqbal-6564ba37a) | `DIRECT` |
-| **Engineering Organization** | [github.com/thexsypher](https://github.com/thexsypher) | `PUBLIC` |
-| **Vulnerability Disclosure** | [xsypher.com/.well-known/security.txt](https://xsypher.com/.well-known/security.txt) | `RFC_9116` |
-| **Syndication Stream** | [xsypher.com/feed.xml (RSS 2.0)](https://xsypher.com/feed.xml) | `ATOM/RSS` |
+| **Primary Platform** | [https://xsypher.com](https://xsypher.com) | Public |
+| **Author Desk** | [xsypher.com/author/anwar-iqbal-dawar](https://xsypher.com/author/anwar-iqbal-dawar) | Verified |
+| **Professional Network** | [linkedin.com/in/anwar-iqbal-6564ba37a](https://www.linkedin.com/in/anwar-iqbal-6564ba37a) | Direct |
+| **Engineering Organization** | [github.com/thexsypher](https://github.com/thexsypher) | Public |
+| **Vulnerability Disclosure** | [xsypher.com/.well-known/security.txt](https://xsypher.com/.well-known/security.txt) | RFC 9116 |
+| **Syndication Stream** | [xsypher.com/feed.xml (RSS 2.0)](https://xsypher.com/feed.xml) | RSS Feed |
 
 </div>
 
