@@ -36,23 +36,23 @@
 
 ---
 
-### [ 01 // OPERATIONAL PROFILE & SYSTEM TELEMETRY ]
+### [ 01 // OPERATIONAL DOSSIER & STRATEGIC PROFILE ]
 
-```yaml
-engineer: "Anwar Iqbal Dawar"
-academic_track: "BS Computer Engineering @ CECOS University, Peshawar"
-primary_role: "Founder, Lead Systems Architect & Editor-in-Chief @ xSypher.com"
-strategic_trajectory: "Advanced MS in Cybersecurity ➔ Cloud Security Engineering (GCC / Gulf Region)"
-active_research_vectors:
-  - vector: "AI Agent & Model Context Protocol (MCP) Security"
-    scope: "Firecracker microVM / gVisor container isolation, prompt-injection defense, and Ed25519 policy brokers."
-  - vector: "High-Throughput Web Systems & Decoupled Storage"
-    scope: "Next.js 16 App Router, Drizzle ORM, Neon Serverless Postgres, and Cloudflare R2 hybrid AST streaming."
-  - vector: "Cloud Infrastructure Hardening & DevSecOps"
-    scope: "Oracle Cloud Infrastructure (OCI ARM64), unprivileged Docker sandboxing, and automated CI/CD verification."
-engineering_credo: "Verify everything with telemetry; decouple compute from state; sandbox all untrusted input."
-opsec_protocol: "Primary workstation permanently operates in Airplane Mode; strict Wi-Fi-only routing for cellular surface isolation and deep-work focus."
-```
+<div align="center">
+
+| Operational Vector | Specification & Active Mandate |
+| :--- | :--- |
+| **Engineer Identity** | **Anwar Iqbal Dawar** |
+| **Primary Leadership** | **Founder, Lead Systems Architect & Editor-in-Chief** &bull; [xSypher.com](https://xsypher.com) |
+| **Academic Foundation** | **BS Computer Engineering** &bull; CECOS University, Peshawar |
+| **Strategic Trajectory** | **Advanced MS in Cybersecurity** &bull; Cloud Security Engineering (GCC / Gulf Region Focus) |
+| **Active Research [01]** | **AI Agent & MCP Security:** Firecracker microVM / gVisor container isolation, prompt-injection defense, and Ed25519 cryptographic policy brokers. |
+| **Active Research [02]** | **High-Throughput Systems:** Next.js 16 App Router, Drizzle ORM, Neon Serverless Postgres, and Cloudflare R2 hybrid decoupled AST streaming. |
+| **Active Research [03]** | **Cloud Hardening & DevSecOps:** Oracle Cloud Infrastructure (OCI ARM64), unprivileged containerization, and automated verification gates. |
+| **Engineering Credo** | `Verify everything with telemetry; decouple compute from state; sandbox all untrusted input.` |
+| **Operational Protocol** | Air-gapped deep work routines; strict Wi-Fi-only surface isolation for deep engineering focus. |
+
+</div>
 
 ---
 
